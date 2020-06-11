@@ -1,0 +1,272 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Dental",
+            "summary": "Please click the below link to show available colleges for Dental Courses",
+            "courseId": 1
+       },
+       {
+            "id": 2,
+            "title": "Engineering",
+            "summary": "Please click the below link to show available colleges for Engineering Courses",
+            "courseId":2
+        },
+        {
+            "id": 3,
+            "title": "Medical",
+            "summary": "Please click the below link to show available colleges for Medical Courses",
+            "courseId":3
+       },
+        {
+            "id": 4,
+            "title": "Management",
+            "summary": "Please click the below link to show available colleges for Management Courses",
+            "courseId":4
+       }
+    ],
+    "collegeList": [
+        {
+            "id": 1,
+            "courseId":1,
+            "title": "Dental",
+            "college": "FACULTY OF DENTAL SCIENCES, M.S. RAMAIAH UNIVERSITY",
+            "est":	"1991",
+            "progoffer":[
+                "BDS", "MDS" 
+            ]	
+        },
+        {
+            "id": 2,
+            "courseId":1,
+            "title": "Dental",
+            "college": "RV DENTAL COLLEGE & HOSPITAL",
+            "est":	"1992",
+            "progoffer":[
+                "BDS", "MDS" 
+            ]	
+        },
+        {
+            "id": 3,
+            "courseId":1,
+            "title": "Dental",
+            "college": "RAJARAJESHWARI DENTAL COLLEGE & HOSPITAL",
+            "est":	"1991",
+            "progoffer":[
+                "BDS", "MDS" 
+            ]	
+        },{
+            "id": 4,
+            "courseId":1,
+            "title": "Dental",
+            "college": "FACULTY OF DENTAL SCIENCES, M.S. RAMAIAH UNIVERSITY",
+            "est":	"1991",
+            "progoffer":[
+                "BDS", "MDS" 
+            ]	
+        },
+        {
+            "id": 5,
+            "courseId":1,
+            "title": "Dental",
+            "college": "RV DENTAL COLLEGE & HOSPITAL",
+            "est":	"1992",
+            "progoffer":[
+                "BDS", "MDS" 
+            ]	
+        },
+        {
+            "id": 6,
+            "courseId":1,
+            "title": "Dental",
+            "college": "RAJARAJESHWARI DENTAL COLLEGE & HOSPITAL",
+            "est":	"1991",
+            "progoffer":[
+                "BDS", "MDS" 
+            ]	
+        },
+        {
+            
+            "id": 7,
+            "courseId":2,
+            "title": "Engineering",
+            "college": "AMRITA SCHOOL OF ENGINEERING, BENGALURU",
+            "est":	"2009",
+            "progoffer":[
+                "B.TECH", "M.TECH" 
+            ]	
+        },
+        {
+            "id": 8,
+            "courseId":2,
+            "title": "Engineering",
+            "college": "JSS ACADEMY OF TECHNICAL EDUCATION",
+            "est":	"1997",
+            "progoffer":[
+                "B.TECH", "M.TECH" 
+            ]	
+        },
+        {
+            "id": 9,
+            "courseId":2,
+            "title": "Engineering",
+            "college": "T.JHON INSTITUTE OF TECHNOLOGY",
+            "est":	"2006",
+            "progoffer":[
+                "B.TECH", "M.TECH" 
+            ]	
+        },
+        {
+            
+            "id": 10,
+            "courseId":3,
+            "title": "Engineering",
+            "college": "AMRITA SCHOOL OF ENGINEERING, BENGALURU",
+            "est":	"2009",
+            "progoffer":[
+                "B.TECH", "M.TECH" 
+            ]	
+        },
+        {                    
+            "id": 11,
+            "courseId":3,
+            "title": "Medical",
+            "college": "JSS ACADEMY OF TECHNICAL EDUCATION",
+            "est":	"1997",
+            "progoffer":[
+                "B.TECH", "M.TECH" 
+            ]	
+        },
+        {
+            "id": 12,
+            "courseId":3,
+            "title": "Medical",
+            "college": "T.JHON INSTITUTE OF TECHNOLOGY",
+            "est":	"2006",
+            "progoffer":[
+                "B.TECH", "M.TECH" 
+            ]	
+        },
+        {
+            "id": 13,
+            "courseId":4,
+            "title": "Management",
+            "college": "GIBS BUSINESS SCHOOL",
+            "est":	"2009",
+            "progoffer":[
+                "PGDM", "BBA" 
+            ]	
+        },
+        {
+            "id": 14,
+            "courseId":4,
+            "title": "Management",
+            "college": "GLOBAL INSTITUTE OF MANAGEMENT & SCIENCES",
+            "est":	"1997",
+            "progoffer":[
+                "MBA", "BBA", "BCA", "B.COM" 
+            ]	
+        },
+        {
+            "id": 15,
+            "courseId":4,
+            "title": "Management",
+            "college": "HILLSIDE INSTITUTE OF MANAGEMENT ACADEMY",
+            "est":	"2006",
+            "progoffer":[
+                "MBA", "BBA", "BCA", "B.COM" 
+            ]	
+        },
+        {
+            "id": 16,
+            "courseId":1,
+            "title": "Dental",
+            "college": "FACULTY OF DENTAL SCIENCES, M.S. RAMAIAH UNIVERSITY",
+            "est":	"1991",
+            "progoffer":[
+                "BDS", "MDS" 
+            ]	
+        },
+        {
+            "id": 17,
+            "courseId":1,
+            "title": "Dental",
+            "college": "RV DENTAL COLLEGE & HOSPITAL",
+            "est":	"1992",
+            "progoffer":[
+                "BDS", "MDS" 
+            ]	
+        },
+        {
+            "id": 18,
+            "courseId":1,
+            "title": "Dental",
+            "college": "RAJARAJESHWARI DENTAL COLLEGE & HOSPITAL",
+            "est":	"1991",
+            "progoffer":[
+                "BDS", "MDS" 
+            ]	
+        }
+
+    ],
+    "plans": [
+        {
+            "id": 1,
+            "title": "Dental",
+            "price": "0",
+            "subscriptiontype": "month",
+            "users": 10,
+            "storage": 2,
+            "support": [
+                "Email support",
+                "Help center access"                
+            ] 
+       },
+       {
+            "id": 2,
+            "title": "Engineering",
+            "price": "15",
+            "subscriptiontype": "month",
+            "users": 20,
+            "storage": 10,
+            "support": [
+                "Priority email support",
+                "Help center access"
+            ] 
+        },
+        {
+            "id": 3,
+            "title": "Medical",
+            "price": "29",
+            "subscriptiontype": "month",
+            "users": 10,
+            "storage": 2,
+            "support": [
+                "Email support",
+                "Help center access"                
+            ] 
+       },
+        {
+            "id": 4,
+            "title": "Management",
+            "price": "29",
+            "subscriptiontype": "month",
+            "users": 10,
+            "storage": 2,
+            "support": [
+                "Email support",
+                "Help center access"                
+            ] 
+       }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}

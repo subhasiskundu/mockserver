@@ -1,0 +1,141 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p1.jpg",
+        "name": "CHECK PRINT SHIRT",
+        "price": 110,
+        "size": "1",
+        "sex":"girl",  
+        "itemType": "Feature"
+      },
+      {
+        "id": 2,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p2.jpg",
+        "name": "GLORIA HIGH LOGO SNEAKER",
+        "price": 91,
+        "size": "1",
+        "sex":"boy",
+        "itemType": "New Arrival"
+      },
+      {
+        "id": 3,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p3.jpg",
+        "name": "CATE RIGID BAG",
+        "price": 94.5,
+        "size": "4",
+        "sex":"girl",  
+        "itemType": "Feature"
+      },
+      {
+        "id": 4,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p4.jpg",
+        "name": "GUESS CONNECT WATCH",
+        "price": 438.9,
+        "size": "3",
+        "sex":"girl",  
+        "itemType": "New Arrival"
+      },
+      {
+        "id": 5,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p5.jpg",
+        "name": "'70s RETRO GLAM KEFIAH",
+        "price": 20,
+        "size": "2",
+        "sex":"girl",
+        "itemType": "Feature"
+      },
+      {
+        "id": 6,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p6.jpg",
+        "name": "GUESS CONNECT WATCH",
+        "price": 438.9,
+        "size": "3",
+        "sex":"girl",  
+        "itemType": "New Arrival"
+      },
+      {
+        "id": 7,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p7.jpg",
+        "name": "'70s RETRO GLAM KEFIAH",
+        "price": 20,
+        "size": "2",
+        "sex":"girl",
+        "itemType": "Feature"
+      },
+      {
+        "id": 8,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p8.jpg",
+        "name": "GUESS CONNECT WATCH",
+        "price": 438.9,
+        "size": "3",
+        "sex":"boy",  
+        "itemType": "New Arrival"
+      },
+      {
+        "id": 9,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p1.jpg",
+        "name": "CHECK PRINT SHIRT",
+        "price": 110,
+        "size": "1",
+        "sex":"boy"
+      },
+      {
+        "id": 10,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p2.jpg",
+        "name": "GLORIA HIGH LOGO SNEAKER",
+        "price": 91,
+        "size": "1",
+        "sex":"girl"
+      },
+      {
+        "id": 11,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p3.jpg",
+        "name": "CATE RIGID BAG",
+        "price": 94.5,
+        "size": "4",
+        "sex":"girl"
+      },
+      {
+        "id": 12,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p4.jpg",
+        "name": "GUESS CONNECT WATCH",
+        "price": 438.9,
+        "size": "3",
+        "sex":"boy"
+      },
+      {
+        "id": 13,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p5.jpg",
+        "name": "'70s RETRO GLAM KEFIAH",
+        "price": 20,
+        "size": "2",
+        "sex":"girl"
+      },
+      {
+        "id": 14,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p6.jpg",
+        "name": "GUESS CONNECT WATCH",
+        "price": 438.9,
+        "size": "3",
+        "sex":"boy"
+      },
+      {
+        "id": 15,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p7.jpg",
+        "name": "'70s RETRO GLAM KEFIAH",
+        "price": 20,
+        "size": "2",
+        "sex":"girl"
+      },
+      {
+        "id": 16,
+        "imgUrl": "http://newsonarbanglaresort.co.in/spc/images/products/p8.jpg",
+        "name": "GUESS CONNECT WATCH",
+        "price": 438.9,
+        "size": "3",
+        "sex":"boy"
+      }
+    ]
+
+  }
